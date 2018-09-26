@@ -1,4 +1,4 @@
-import java.sql.*;
+﻿import java.sql.*;
 
 public class Main {
 
@@ -34,3 +34,4 @@ public class Main {
             System.out.println("연결실패");
     }
 }
+test
