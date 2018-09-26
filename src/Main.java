@@ -34,4 +34,4 @@ public class Main {
             System.out.println("연결실패");
     }
 }
-test
+ㅅㄷㄴ
